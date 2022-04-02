@@ -5,6 +5,8 @@
 ## Overview of Analysis
 In this challenge I looked at the CitiBike data from New York City. I looked at usage by gender, by time, by user type and combinations of those measures. These visualization would help our investors understand how a bike sharing company might fare in Iowa.
 
+See the Tableau Story [here](https://public.tableau.com/app/profile/amber.middendorf/viz/CitibikeChallenge_16489184370200/Story1?publish=yes)
+
 ## Results
 
 ![Checkouts](https://user-images.githubusercontent.com/95837693/161396288-7b7315a5-b000-46e5-a923-59e1177c4418.PNG)
